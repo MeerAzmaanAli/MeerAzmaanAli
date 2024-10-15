@@ -46,7 +46,7 @@
 
 
 [![Gmail](https://img.shields.io/badge/gmail-%23FF9A00.svg?logo=Gmail&logoColor=white)](azmaan.ali11@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meerofficial._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meerazmaanali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MeerAzmaanAli) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meerofficial._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/meerazmaanali](https://www.linkedin.com/in/meer-azmaan-ali-535957226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MeerAzmaanAli) 
 
 
 
