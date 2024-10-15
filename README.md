@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Kairvee+Vaswani;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?color=8CFF00&center=true&vCenter=true&lines=Hey+folks%2C+my+self+Meer+Azmaan+Ali+an+aspiring+game+developer+idth=600&lines=Heyyy!+I'm+Kairvee+Vaswani;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 <div align="center">
@@ -17,12 +17,11 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on `Backend` Development and `CP`.
-- 🌱 I’m currently learning `web3` and `backend`
-- 👯 I’m looking to collaborate with Web 3 and Frontend Developers.
-- 🤔 I’m looking for help with web-3 projects.
-- ⚙️ I use daily: `.js`, `.cpp`, `.jsx`, `.ts`
-- 💬 Ping me about **CP**, **fullstack**, **development**, **web3**
+- 🔭 I’m Game programmer & 3d Artist .
+- 🌱 I’m currently learning web dev particularly JavaScript for web games
+- 👯 I’m looking to collaborate in game dev projects 
+- ⚙️ I use daily:`.c#`, `.js`, `.py`, `.jsx`, `.java`
+- 💬 Ping me about **unity engine**, **Blender**, **game development**
 
 </td>
 <td width="50%" align="center">
