@@ -1,13 +1,4 @@
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?color=8CFF00&center=true&vCenter=true&lines=Hey+folks%2C+my+self+Meer+Azmaan+Ali+an+aspiring+game+developer+idth=600&lines=Heyyy!+I'm+Kairvee+Vaswani;Welcome+to+my+profile!" alt="Title"></img>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kairveeehh&style=flat-square&color=blue" alt="Profile views">
-</div>
-
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8CFF00&center=true&vCenter=true&width=435&lines=Hey+folks%2C+my+self+Meer+Azmaan+Ali+an+aspiring+game+developer+" alt="Typing SVG" /></a>
 
 
 
