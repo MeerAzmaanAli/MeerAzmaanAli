@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m  Game programmer & 3d Artist <br>👯 I’m looking to collaborate on game dev projects <br>🌱 I’m currently learning JavaScript <br>💬 Ask me about unity engine <br>⚡ Curious learner likes to learn more new tech 
+🔭 I’m  Game programmer & 3d Artist <br>👯 I’m looking to collaborate on game dev projects <br>🌱 I’m currently learning JavaScript for web games <br>💬 Ask me about unity engine <br>⚡ Curious learner likes to learn more new tech <br>🧑‍💻 programming in : C#, javascript, python, java, cpp<br>
 
 
 ## 🌐 Socials:
