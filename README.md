@@ -36,19 +36,15 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+![](https://github-readme-stats.vercel.app/api?username=MeerAzmaanAli&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MeerAzmaanAli&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeerAzmaanAli&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kairveeehh&theme=chartreuse-dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kairveeehh&theme=chartreuse-dark&hide_border=false" /> 
-</td>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MeerAzmaanAli&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</tr>
-</table>
-
-<p >
+---
+[![](https://visitcount.itsvg.in/api?id=MeerAzmaanAli&icon=0&color=0)](https://visitcount.itsvg.in)
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
