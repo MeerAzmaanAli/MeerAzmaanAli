@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8CFF00&center=true&vCenter=true&width=435&lines=Hey+folks%2C+my+self+Meer+Azmaan+Ali+an+aspiring+game+developer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8CFF00&width=750&lines=Hey+folks%2C+my+self+Meer+Azmaan+Ali+an+aspiring+game+developer+" alt="Typing SVG" /></a>
 
 
 
