@@ -40,9 +40,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MeerAzmaanAli&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeerAzmaanAli&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MeerAzmaanAli&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MeerAzmaanAli&icon=0&color=0)](https://visitcount.itsvg.in)
     <picture align="center">
@@ -58,12 +55,7 @@
 
 
 
-  <a href="mailto:vkairvee@gmail.com" >
-    <img align="center" alt="kairvee | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/kairveee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kairveee" height="30" width="40" /></a>
-
-<p>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meerofficial._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meerazmaanali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MeerAzmaanAli) 
 
 
 
