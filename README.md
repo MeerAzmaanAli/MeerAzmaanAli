@@ -27,9 +27,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=MeerAzmaanAli&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MeerAzmaanAli&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeerAzmaanAli&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![MeerAzmaanAli's Stats](https://github-readme-stats.vercel.app/api?username=MeerAzmaanAli&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![MeerAzmaanAli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeerAzmaanAli&theme=merko&hide_border=true)
+![MeerAzmaanAli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeerAzmaanAli&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MeerAzmaanAli&icon=0&color=0)](https://visitcount.itsvg.in)
