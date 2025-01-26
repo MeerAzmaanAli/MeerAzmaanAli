@@ -47,7 +47,7 @@
 
 [![Gmail](https://img.shields.io/badge/gmail-%23FF9A00.svg?logo=Gmail&logoColor=white)](azmaan.ali11@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meerofficial._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/meer-azmaan-ali-535957226) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MeerAzmaanAli) 
-[![Artstation](https://img.shields.io/badge/Artstation-%23E4405F.svg?logo=Artstation&logoColor=white)](https://meerazmaanali.artstation.com/)
+[![Artstation](https://img.shields.io/badge/Artstation-%08174d.svg?logo=Artstation&logoColor=white)](https://meerazmaanali.artstation.com/)
 
 
 
